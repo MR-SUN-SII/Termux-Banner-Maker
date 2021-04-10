@@ -8,12 +8,12 @@ Installation Step :
 2) cd Termux-Banner-Maker
 
 
-3) chmod +x t-ban-require.sh
+3) chmod +x t-require.sh
 
 4) chmod +x t-ban-maker.sh
 
 
-5) bash t-ban-require.sh
+5) bash t-require.sh
 
 
 6) bash t-ban-maker.sh
@@ -22,7 +22,7 @@ Installation Step :
 
 Uninstallation Step : (Remove Logo From Termux)
 
-1) bash remove.sh
+1) bash remove-t-ban.sh
 
 2) Done !!!
 
