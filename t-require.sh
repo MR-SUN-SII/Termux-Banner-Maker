@@ -26,7 +26,7 @@ read varcowsay
 echo  "cowsay -f eyes "$varcowsay" | lolcat" > C0w54y.txt
 echo "toilet -f big '    $varbanner' -F gay | lolcat" > 84nn3r.txt
 echo
-echo -e $lightpink "\e[1m  -----Congratulaions, now you have a banner in Termux Home page-----
+echo -e $lightpink "\e[1m  -Congratulaions, now you have a banner in Termux Home page-
 echo " "
 echo "clear" > cl34r.txt
 cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
