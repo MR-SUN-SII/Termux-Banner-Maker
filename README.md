@@ -4,7 +4,7 @@ The Termux Banner Maker script by Saiful Islam Imon(MR.SUN)
 
 Installation Step :
 
-$ https://github.com/MR-SUN-SII/Termux-Banner-Maker.git
+$ git clone https://github.com/MR-SUN-SII/Termux-Banner-Maker.git
 
 $ cd Termux-Banner-Maker
 
