@@ -28,6 +28,7 @@ echo "toilet -f big '    $varbanner' -F gay | lolcat" > 84nn3r.txt
 echo
 echo -e $lightpink "\e[1m        -Congratulations, now you have a Banner in Termux Home-"
 echo " "
+echo " "
 echo "clear" > cl34r.txt
 cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
 cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/zshrc
